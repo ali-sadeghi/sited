@@ -13,6 +13,11 @@
   font-family: IRANSans;
 }
 
+* {
+  filter: blur(0.6px);
+  -webkit-filter: blur(0.6px);
+}
+
 *,
 *:before,
 *:after {
